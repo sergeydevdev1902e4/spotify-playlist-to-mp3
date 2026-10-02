@@ -42,4 +42,4 @@ python sync.py --playlist 37i9dQZF1DX10zKzsJ2jva --out "D:\Music\Synthwave" --sp
 
 To skip Last.fm tagging entirely, just don't provide the API key.
 
-<!-- refreshed: 2026-10-01 -->
+<!-- refreshed: 2026-10-02 -->
